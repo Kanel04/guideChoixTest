@@ -1,0 +1,41 @@
+.logo{
+    font-size: x-large;
+    margin: 10px;
+}
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+}
+.select{
+    margin-right: 22px;
+    margin-top: 10px;
+}
+
+.label{
+    
+    padding-right: 6px;
+    
+}
+
+.linkbutton{
+    margin-right: 22px;
+    display: flex;
+    flex-direction: row;
+}
+.primary{
+    margin-right: 22px;
+    margin-top: 10px;
+}
+.secondary{
+    margin-left: 22px;
+    margin-right: 22px;
+    margin-top: 10px;
+}
+
+.inputcard{
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top: 32px;
+}
